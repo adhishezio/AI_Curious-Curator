@@ -1,0 +1,4 @@
+.curious-curator/
+__pycache__/
+db/
+object_images/
