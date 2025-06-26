@@ -1,0 +1,13 @@
+transformers
+torch
+torchvision
+torchaudio
+opencv-python
+Pillow
+chromadb
+llama-cpp-python
+requests
+beautifulsoup4
+llama-index-readers-wikipedia
+huggingface_hub
+accelerate
