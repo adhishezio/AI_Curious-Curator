@@ -45,8 +45,8 @@ To get this project running on your local machine, follow these steps.
 
 1.  **Clone the Repository**
     ```bash
-    git clone [your-repo-link]
-    cd [your-repo-name]
+    git clone https://github.com/adhishezio/AI_Curious-Curator.git
+    cd AI_Curious-Curator
     ```
 
 2.  **Create a Python Virtual Environment**
